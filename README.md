@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-Full Stack Developer with **8+ years** of experience building large-scale enterprise applications, reusable component libraries, and micro-frontend architectures. Proven track record delivering complex approval workflow platforms, energy trading dashboards, design systems, and e-commerce solutions for **Fortune 500 clients** (Shell, Nayara Energy, DBS Bank, Walmart, Nike).
+Full Stack Developer with **10+ years** of experience building large-scale enterprise applications, reusable component libraries, and micro-frontend architectures. Proven track record delivering complex approval workflow platforms, energy trading dashboards, design systems, and e-commerce solutions for **Fortune 500 clients** (Shell, Nayara Energy, DBS Bank, Walmart, Nike).
 
 Currently at **KPMG India**, delivering high-impact solutions as Assistant Manager – Technology Consulting.
 
