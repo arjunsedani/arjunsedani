@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Assistant Manager – Technology Consulting @ KPMG India</strong><br>
-  Full Stack Developer · Design System Architect · Open Source Contributor
+  Full Stack Developer · Design System Architect · AI & Prompt Engineering Expert
 </p>
 
 <p align="center">
@@ -16,13 +16,17 @@
 
 ### 🚀 About Me
 
-I'm a **Senior Frontend Engineer** with **6+ years** of experience building enterprise-grade web applications, design systems, and component libraries. Currently at **KPMG India**, delivering high-impact solutions for clients like **Nayara Energy** and **Shell Petroleum**.
+Full Stack Developer with **8+ years** of experience building large-scale enterprise applications, reusable component libraries, and micro-frontend architectures. Proven track record delivering complex approval workflow platforms, energy trading dashboards, design systems, and e-commerce solutions for **Fortune 500 clients** (Shell, Nayara Energy, DBS Bank, Walmart, Nike).
 
-- 🏗️ Building enterprise platforms with **React 19**, **TypeScript**, and **Micro Frontends**
-- 🤖 **AI & Prompt Engineering** expert – GPT-5.3, Codex, Claude Opus, Claude Sonnet, GitHub Copilot
-- 📦 Author of **2 open-source component libraries** published on NPM
-- 🎨 Designed and shipped a **53-component React design system** with Storybook & Figma token sync
-- 🌐 Shipped **5+ production web apps** end-to-end as a freelancer
+Currently at **KPMG India**, delivering high-impact solutions as Assistant Manager – Technology Consulting.
+
+- 🏗️ Building enterprise platforms with **React 19**, **TypeScript**, and **Micro Frontends (Module Federation)**
+- 🤖 **AI & Prompt Engineering** expert — GPT-5.3, Codex, Claude Opus, Claude Sonnet, GitHub Copilot
+- 📦 Author of **2 NPM component libraries** — 53 React components + 78 Preact components + 46 Web Components
+- 🎨 Architected a **React design system monorepo** with Storybook 10, Figma token sync, Turborepo & Changesets
+- 🌐 Shipped **5+ production web apps** end-to-end as a freelancer (e-commerce, interior design, grocery delivery)
+- 🔐 Strong in **RBAC**, **SSO/OIDC**, **Module Federation**, and **on-premises deployment** pipelines
+- 📄 **Published researcher** & **5x hackathon winner/finalist** (Shell, Microsoft, EVRY)
 
 ---
 
@@ -80,16 +84,22 @@ I'm a **Senior Frontend Engineer** with **6+ years** of experience building ente
 ### 🏢 Professional Experience
 
 **KPMG India** — Assistant Manager, Technology Consulting *(May 2023 – Present)*  
-→ NFA Portal & MOC 2.0 (Nayara Energy) · LNG Deal & Tanso (Shell Petroleum)
+→ **NFA Portal** (Nayara Energy): Full-stack multi-module approval portal — 7 NFA workflows, RBAC with 15+ roles, .NET API integration  
+→ **MOC 2.0** (Nayara Energy): Enterprise safety-critical change management — 7 process types, 23+ admin modules, Module Federation  
+→ **LNG Deal** (Shell): Global LNG trading platform — 29+ modules, Highcharts, AG Grid, PowerBI, React Flow, 85%+ test coverage  
+→ **Tanso** (Shell): Carbon & energy portfolio dashboard with real-time commodity analytics  
 
-**IBM** — Application Developer *(Jul 2021 – May 2023)*  
-→ Cloud-native microservices, React SPAs, AWS Lambda, Watson Assistant
+**IBM** — Advisory System Analyst *(Jul 2021 – May 2023)*  
+→ **DBS Vista Equity**: Module Federation micro-frontends across 7 country portals, live chat (WebSocket), Adobe Analytics, Pact contract testing  
 
-**Bosch Global Software Technologies** — Associate Software Engineer *(Feb 2020 – Jul 2021)*  
-→ Angular dashboards, IoT data visualization, D3.js
+**Bosch Global Software Technologies** — Senior Software Engineer *(Aug 2019 – Jun 2021)*  
+→ **AliveCor**: Healthcare micro-frontend — EKG analysis, WebRTC video calls, FHIR integration  
+→ **Walmart Health & Optimis**: EMR integration for 4,000+ clinics, 2M+ providers, Python Flask + Azure  
 
-**EVRY India (Infosys)** — Software Engineer *(Sep 2018 – Jan 2020)*  
-→ .NET/Angular banking systems, DevOps CI/CD
+**EVRY India (TietoEVRY)** — Software Engineer *(Oct 2016 – Aug 2019)*  
+→ **CBRE Host Mobile**: Smart building app (Nike) — React Native, room booking, wayfinding  
+→ **Smart Real Estate**: AR/VR property tours (ARCore + A-Frame) — Won Best Innovation TECHUTSAV 2018  
+→ **IDA Connect**: NLP chatbot with Amazon Lex + AWS Lambda for voice & chat support
 
 ---
 
