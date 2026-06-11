@@ -19,6 +19,7 @@
 I'm a **Senior Frontend Engineer** with **6+ years** of experience building enterprise-grade web applications, design systems, and component libraries. Currently at **KPMG India**, delivering high-impact solutions for clients like **Nayara Energy** and **Shell Petroleum**.
 
 - 🏗️ Building enterprise platforms with **React 19**, **TypeScript**, and **Micro Frontends**
+- 🤖 **AI & Prompt Engineering** expert – GPT-5.3, Codex, Claude Opus, Claude Sonnet, GitHub Copilot
 - 📦 Author of **2 open-source component libraries** published on NPM
 - 🎨 Designed and shipped a **53-component React design system** with Storybook & Figma token sync
 - 🌐 Shipped **5+ production web apps** end-to-end as a freelancer
@@ -55,6 +56,13 @@ I'm a **Senior Frontend Engineer** with **6+ years** of experience building ente
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
+**AI & Prompt Engineering**  
+![OpenAI](https://img.shields.io/badge/GPT--5.3-412991?style=flat-square&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20Opus-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Sonnet](https://img.shields.io/badge/Claude%20Sonnet-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?style=flat-square&logo=githubcopilot&logoColor=white)
+
 ---
 
 ### 📌 Featured Projects
@@ -87,17 +95,30 @@ I'm a **Senior Frontend Engineer** with **6+ years** of experience building ente
 
 ### 🏆 Awards & Publications
 
-- 🥇 **KPMG Encore Award** — Spot recognition for NFA Portal delivery
-- 📄 **IEEE Published Paper** — *Smart City Interactive Dashboard* (ICCCSP 2020)
-- 🏅 **Bosch InnoSprint Hackathon** — 2nd Runner-up
+- ⭐ **Five-Star Honors "Above and Beyond"** – Shell – Delivered full solution within 6-month timeframe
+- 🏆 **Best Innovation – TECHUTSAV 2018 (EVRY)** – Smart Real Estate: AR/VR property tours using ARCore & A-Frame
+- 🏆 **Top 10 Innovation – TECHUTSAV 2019 (EVRY)** – PropertyGram: Gamification framework with React Native, Firebase, Python
+- 🥇 **Top 11 – Microsoft Incubate Hackathon 2019** – 3D House Hunting using Map My India
+- 💡 **Top Idea – EVRY Hackathon 2018** – 3-30-300 Rule: IoT + ML + VR for facility management
+- ⭐ **Employee of the Month (March 2018)** – EVRY India – Amazon Lex chatbot app in record time
+- 📄 **Publication:** Smart Real Estate – AR/VR property tour system
+- 📄 **Publication:** PropertyGram – Gamification framework for property management
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjunsedani&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunsedani&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunsedani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjunsedani&theme=tokyonight" alt="Contribution Graph" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arjunsedani&style=flat-square&color=0ea5e9" alt="Profile Views"/>
 </p>
 
 ---
