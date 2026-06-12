@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/arjun-sedani-349575128"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://arjunsedani.github.io/arjunsedaniprofile/"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://acinguiuxds-docs.vercel.app/"><img src="https://img.shields.io/badge/Design%20System-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Design System"/></a>
+  <a href="https://acinguiuxds-react-storybook.vercel.app/"><img src="https://img.shields.io/badge/Design%20System-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Design System"/></a>
   <a href="https://www.npmjs.com/package/amitala-components"><img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/></a>
 </p>
 
