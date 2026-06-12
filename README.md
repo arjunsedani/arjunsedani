@@ -20,7 +20,7 @@ Full Stack Developer with **10+ years** of experience building large-scale enter
 
 Currently at **KPMG India**, delivering high-impact solutions as Assistant Manager – Technology Consulting.
 
-- 🏗️ Building enterprise platforms with **React 19**, **TypeScript**, and **Micro Frontends (Module Federation)**
+- 🏗️ Building enterprise platforms with **React 18.3.x**, **TypeScript**, and **Micro Frontends (Module Federation)**
 - 🤖 **AI & Prompt Engineering** expert — GPT-5.3, Codex, Claude Opus, Claude Sonnet, GitHub Copilot
 - 📦 Author of **2 NPM component libraries** — 53 React components + 78 Preact components + 46 Web Components
 - 🎨 Architected a **React design system monorepo** with Storybook 10, Figma token sync, Turborepo & Changesets
@@ -73,7 +73,7 @@ Currently at **KPMG India**, delivering high-impact solutions as Assistant Manag
 
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
-| **acinguiux-ds** | React design system monorepo — 53 components, Storybook, Figma tokens, NPM | React, Turborepo, Storybook 10, Changesets | [Docs ↗](https://acinguiux-ds-docs-site.vercel.app/) |
+| **acinguiux-ds** | React design system monorepo — 53 components, Storybook, Figma tokens, NPM | React, Turborepo, Storybook 10, Changesets | [Docs ↗](https://acinguiuxds-docs.vercel.app/) |
 | **amitala-components** | Preact component library — 78+ components + 46 Web Components, Atomic Design | Preact, esbuild, Web Components | [NPM ↗](https://www.npmjs.com/package/amitala-components) |
 | **ShivShakti Hardware** | Full-stack e-commerce for hardware retail | Preact, Vercel, KV Store | [Live ↗](https://shivshaktihardwares.com/) |
 | **Aurvana Interiors** | Interior design showcase with custom SSG & contact form | Preact, esbuild, Resend API | [Live ↗](https://aurvana.in/) |
